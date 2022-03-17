@@ -9,3 +9,7 @@
 ### Parte de Serviços
 
 ![2](https://user-images.githubusercontent.com/44009362/158866286-c29d1f59-3b27-45b4-8a4b-5f33061f3e63.png)
+
+### Tipos de Planos e Rodapé
+
+![3](https://user-images.githubusercontent.com/44009362/158866453-c6b1ec70-d9d4-48ed-a607-2192be2e5e75.png)
